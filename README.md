@@ -68,4 +68,4 @@ The front and middle wheels ($F'$ and $M'$) are on the step, and the rear wheel 
 All three wheels ($F', M', R'$) have successfully climbed and are now resting on the top of the step.
 
  <img width="1580" height="775" alt="image" src="https://github.com/user-attachments/assets/e5d53f01-55d4-426e-9166-91db2cb5297a" />
- <img width="1580" height="775" alt="image" src="https://github.com/user-attachments/assets/e5d53f01-55d4-426e-9166-91db2cb5297a" />
+
